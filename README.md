@@ -7,7 +7,7 @@
 ## Sobre mim 🙍‍♂️
 
 💻 Trabalho como Fullstack Junior<br>
-📚 Aprendendo mais sobre o universo javascript<br>>
+📚 Aprendendo mais sobre o universo javascript<br>
 🎮 Uma jogatina entre um código e outro<br>
 ⚽ FLAMENGO❤️ 
 <br>
