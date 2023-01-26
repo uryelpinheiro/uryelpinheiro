@@ -1,4 +1,4 @@
-# Ferreira Junior
+# Uryel Pinheiro
 
 [![Linkedin Badge](https://img.shields.io/badge/Linkedin-87CEEB?style=for-the-badge&logo=linkedin&logoColor=blue)](#) &nbsp;
 [![Instagram Usakimodoki Badge](https://img.shields.io/badge/Instagram-FF1493?style=for-the-badge&logo=instagram&logoColor=purple)](#) &nbsp;
@@ -7,8 +7,7 @@
 ## Sobre mim 🙍‍♂️
 
 💻 Trabalho como Fullstack Junior<br>
-📚 Aprendendo mais sobre o universo javascript<br>
-🎶 Amante da música e viciado em instrumentos musicais <br>
+📚 Aprendendo mais sobre o universo javascript<br>>
 🎮 Uma jogatina entre um código e outro<br>
 ⚽ FLAMENGO❤️ 
 <br>
@@ -17,11 +16,9 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) &nbsp;
 ![LARAVEL](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) &nbsp;
 ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) &nbsp;
-![VUEJS](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D) &nbsp;
 <br>
 
 ## Conhecimentos 📖
-![FIGMA](https://img.shields.io/badge/Figma-FF6347?style=for-the-badge&logo=figma&logoColor=white) &nbsp;
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) &nbsp;
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) &nbsp;
 ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white) &nbsp;
@@ -32,7 +29,6 @@
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white) &nbsp;
 ![MYSQL](https://img.shields.io/badge/MySQL-4F4F4F?style=for-the-badge&logo=mysql&logoColor=white) &nbsp;
 ![POSTGRES](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) &nbsp;
-![Linux](https://img.shields.io/badge/-Linux-16C60C?style=for-the-badge&logo=linux&logoColor=white) &nbsp;
 ![Windows](https://img.shields.io/badge/-Windows-00ADEF?style=for-the-badge&logo=windows&logoColor=white) &nbsp;
 <br>
 
